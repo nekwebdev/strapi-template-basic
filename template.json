@@ -1,0 +1,8 @@
+{
+  "package": {
+    "dependencies": {
+      "@strapi/plugin-graphql": "latest",
+      "strapi-plugin-import-export-entries": "latest"
+    }
+  }
+}
