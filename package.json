@@ -1,0 +1,23 @@
+{
+  "name": "strapi-template-basic",
+  "version": "1.0.0",
+  "description": "Strapi template with data structure for a navigation bar with sub sections and relationships to pages.",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekwebdev/strapi-template-basic.git"
+  },
+  "keywords": [
+    "strapi",
+    "template",
+    "basic"
+  ],
+  "author": "Nek Webdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekwebdev/strapi-template-basic/issues"
+  },
+  "homepage": "https://github.com/nekwebdev/strapi-template-basic#readme"
+}
